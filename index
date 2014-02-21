@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Richard Helms</title>
+    <link rel="stylesheet" type="text/css" href="Helms.css" />
+    <!--[if lt IE 9]>
+      <script src="scripts/semantic.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <p id="skipnav"><a href="#logo"><span id="skiplink">Skip navigation</span></a></p> 
+    <div id="box">
+      <nav>
+        <p id="mainnav">
+          <a href="index.html">Home</a> |
+          <a href="Aboutme.html">About Me</a>           
+        </p>
+      </nav>
+      <div id="logo">
+        <img src="Helms.jpg" width="225" height="225" alt="Picture of Richard Helms"title="" /></a>
+      </div>
+      <h1>Richard Helms</h1>
+      <p id="main" class="tagline">Web Design</p>
+      <p class="maintext"></p>
+      <p class="listintro">This is my web page. </p>
+      <p class="maintext" id="awards">Voted "Best Designer" by the <span id="title">Student Times</span>!</p>
+      <footer>
+        <p id="contact">
+          Concord, NC.: <span class="callout">(704) 280-1337</span><br />
+        </p>
+      </footer>
+    </div>
+  </body>
